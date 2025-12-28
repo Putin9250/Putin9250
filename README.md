@@ -10,7 +10,7 @@ I enjoy turning complex ideas into simple screens—and simple screens into reli
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttamwebsolution)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putin1/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uttamwebsolution@gmail.com)
-[![Website](https://img.shields.io/badge/Website-D14836?logo=google-chrome&logoColor=white)](https://your-website-link-here)
+[![PortFolio](https://img.shields.io/badge/Website-D14836?logo=google-chrome&logoColor=white)](https://your-website-link-here)
 
 ---
 
