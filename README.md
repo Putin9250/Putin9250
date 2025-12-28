@@ -8,8 +8,9 @@ Certified in **AWS**, experienced in **Logistics & Data Operations**, and driven
 I enjoy turning complex ideas into simple screens—and simple screens into reliable systems.
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white)](https://putin9250.github.io/Sahil-Kumar/)
 
-## 🌐 Connect With Me
+---
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttamwebsolution)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putin1/)
@@ -19,7 +20,7 @@ I enjoy turning complex ideas into simple screens—and simple screens into reli
 
 ## 💻 Tech Stack
 
-**Frontend**
+**Frontend**                                                      
 - React.js, JavaScript (ES6+)
 - HTML5, CSS3, Tailwind CSS
 - React Router, React Hook Form, React Query
