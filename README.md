@@ -1,49 +1,135 @@
 # 💫 About Me
 
-I build interfaces where logic flows quietly beneath beauty.  
-An aspiring **Web Developer** with a strong foundation in **React.js**, **JavaScript**, and modern CSS—focused on crafting clean, responsive, and purposeful user experiences.
+Hi, I'm **Sahil Kumar**, a Full-Stack Web Developer passionate about building responsive, scalable, and user-focused web applications.
 
-Certified in **AWS**, experienced in **Logistics & Data Operations**, and driven by the belief that good software should feel effortless, honest, and human.
+My primary expertise lies in **React.js**, **JavaScript**, and modern frontend development, while expanding into backend technologies including **Node.js**, **Express.js**, **Authentication**, and database design.
 
-I enjoy turning complex ideas into simple screens—and simple screens into reliable systems.
+I enjoy transforming ideas into polished digital products—from elegant interfaces to reliable backend systems.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttamwebsolution)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putin1/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uttamwebsolution@gmail.com)
-[![PortFolio](https://img.shields.io/badge/Website-D14836?logo=google-chrome&logoColor=white)](https://putin9250.github.io/Sahil-Kumar/)
+Beyond development, I'm an AWS Cloud Practitioner with experience in logistics operations, giving me a practical understanding of workflows, problem-solving, and real-world business processes.
+
+I believe great software should be simple to use, easy to maintain, and built with purpose.
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
-**Frontend**                                                      
-- React.js, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- React Router, React Hook Form, React Query
-
-**Tools & Design**
-- Git & GitHub
-- Figma, Canva, Dribbble
-- NPM
-
-**Cloud & Deployment**
-- AWS (Certified)
-- Netlify
-- Google Cloud (Basics)
-
-**Database**
-- MySQL
+* 🌍 Portfolio: https://putin9250.github.io/Sahil-Kumar/
+* 💼 LinkedIn: https://www.linkedin.com/in/putin1/
+* 💻 GitHub: https://github.com/Putin9250
+* 📧 Email: [sahil24042005@gmail.com](mailto:sahil24042005@gmail.com)
+* 📍 Delhi, India
 
 ---
 
-## 📊 GitHub Activity
+# 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=putin9250&theme=omni&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=putin9250&theme=omni&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=putin9250&theme=omni&hide_border=false&layout=compact)
+### Languages
+
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* SCSS
+* Framer Motion
+* Responsive Design
+* React Router
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Cloud & Deployment
+
+* AWS (EC2, S3, IAM)
+* Netlify
+* Render
+* GitHub Pages
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+### AI-Assisted Development
+
+* ChatGPT
+* Claude
+* GitHub Copilot
+* Cursor AI
+* DeepSeek
 
 ---
 
-🕊️ *Always learning. Always refining. One commit at a time.*
+## 🚀 Featured Projects
 
-[![](https://visitcount.itsvg.in/api?id=putin9250&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛒 Shiv Exa Lights — Full Stack E-Commerce
+
+**React • Node.js • Express • MongoDB • Razorpay**
+
+* Complete e-commerce platform
+* Admin dashboard
+* Authentication & RBAC
+* Product & order management
+* Payment integration
+* REST APIs
+
+🔗 Live Demo:
+https://www.shivexalights.in/
+
+---
+
+### 🥋 Final Round Fight Club
+
+Responsive martial arts academy website built using an AI-assisted workflow with React and Tailwind CSS.
+
+---
+
+### 💼 Portfolio Website
+
+Professional business portfolio built with React, Tailwind CSS, and EmailJS.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=putin9250\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=putin9250\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=putin9250\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📜 Certifications
+
+* AWS Cloud Practitioner Essentials
+* Employability Skills (Microsoft × Edunet)
+* COPA (ITI Pusa)
+
+---
+
+### 💡 Currently Learning
+
+* Java
+* Data Structures & Algorithms
+* PostgreSQL
+* Enterprise Backend Development
+
+---
+
+> *Building software that solves problems, not just screens that look good.*
